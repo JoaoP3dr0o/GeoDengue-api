@@ -1,0 +1,5 @@
+adicionar um cadastro de senha
+verificação se o usuário existe antes da validação (1:00:55-video-YT)
+mudar a forma de resposta pra quando não existir o ID procurado, exemplo: usuário que voce informou não existe, portanto não consigo altera-lo
+fazer tratamento do Request no index -> public function index(Request $request)
+acrescentar middleware para acesso e proteção
